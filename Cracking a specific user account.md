@@ -8,6 +8,10 @@ In this lab, you will use **Hydra** to crack the password for a specific user ac
 
 ---
 
+link to the room: https://labex.io/labs/linux-cracking-a-specific-user-account-415951?course=cybersecurity-labs-for-beginners
+
+---
+
 ## Lab Details
 
 - **Platform:** LabEx
